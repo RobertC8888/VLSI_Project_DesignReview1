@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      tcq2ms
+HostName                       gridley.ece.Virginia.EDU
+ProcessIdentifier              195559
+ProcessCreationTime_UTC        1740679600
+ProcessCreationTime_Readable   Thu Feb 27 13:06:40 2025 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /net/marysrock.ece.Virginia.EDU/maryisan/users/tcq2ms/cadence/VLSI_Project_DesignReview1/DEMUX4x116/schematic/sch.oa.cdslck
+TimeEditLocked                 Fri Feb 28 01:36:14 2025 EST
